@@ -1,12 +1,72 @@
 {
   "info": [
     {
-      "text": "Muzlar radyoaktiftir",
-      "link": "https://www.mcgill.ca/oss/article/you-asked/it-true-banana-radioactive"
+      "id": 1,
+      "translations": {
+        "tr": {
+          "text": "Kediler su içerken dillerini yukarı doğru kıvırır.",
+          "link": "https://www.nationalgeographic.com/animals/article/cats-drinking-water"
+        },
+        "en": {
+          "text": "Cats curl their tongues upward while drinking water.",
+          "link": "https://www.nationalgeographic.com/animals/article/cats-drinking-water"
+        },
+        "de": {
+          "text": "Katzen krümmen ihre Zungen nach oben, wenn sie Wasser trinken.",
+          "link": "https://www.nationalgeographic.com/animals/article/cats-drinking-water"
+        }
+      }
     },
     {
-      "text": "Bir ördek “vakladığında” yankı yapar — ama insan kulağı bu yankıyı genelde duyamaz.",
-      "https://www.birdspot.co.uk/bird-brain/does-a-ducks-quack-echo"
+      "id": 2,
+      "translations": {
+        "tr": {
+          "text": "Balinalar uyurken beyinlerinin sadece yarım küresi uyur.",
+          "link": "https://www.smithsonianmag.com/science-nature/how-whales-sleep-180967860/"
+        },
+        "en": {
+          "text": "Whales sleep with only half of their brain at a time.",
+          "link": "https://www.smithsonianmag.com/science-nature/how-whales-sleep-180967860/"
+        },
+        "de": {
+          "text": "Wale schlafen jeweils nur mit einer Gehirnhälfte.",
+          "link": "https://www.smithsonianmag.com/science-nature/how-whales-sleep-180967860/"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "translations": {
+        "tr": {
+          "text": "Dünyadaki flamingolar pembe renklerini yedikleri karotenoidler sayesinde alır.",
+          "link": "https://www.britannica.com/animal/flamingo-bird"
+        },
+        "en": {
+          "text": "Flamingos get their pink color from carotenoids in their diet.",
+          "link": "https://www.britannica.com/animal/flamingo-bird"
+        },
+        "de": {
+          "text": "Flamingos erhalten ihre rosa Farbe durch Carotinoide in ihrer Nahrung.",
+          "link": "https://www.britannica.com/animal/flamingo-bird"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "translations": {
+        "tr": {
+          "text": "Ay yüzeyinde gün doğumu ve gün batımı yaklaşık 6 gün sürer.",
+          "link": "https://solarsystem.nasa.gov/moons/earths-moon/overview/"
+        },
+        "en": {
+          "text": "Sunrise and sunset on the Moon each last about six Earth days.",
+          "link": "https://solarsystem.nasa.gov/moons/earths-moon/overview/"
+        },
+        "de": {
+          "text": "Auf der Mondoberfläche dauern Sonnenauf- und -untergang jeweils etwa sechs Erdtage.",
+          "link": "https://solarsystem.nasa.gov/moons/earths-moon/overview/"
+        }
+      }
     }
   ]
 }
