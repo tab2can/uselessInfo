@@ -5,15 +5,15 @@
       "translations": {
         "tr": {
           "text": "Kediler su içerken dillerini yukarı doğru kıvır.",
-          "link": "https://www.nationalgeographic.com/animals/article/cats-drinking-water"
+          "link": "https://www.science.org/doi/10.1126/science.1195421"
         },
         "en": {
           "text": "Cats curl their tongues upward while drinking water.",
-          "link": "https://www.nationalgeographic.com/animals/article/cats-drinking-water"
+          "link": "https://www.science.org/doi/10.1126/science.1195421"
         },
         "de": {
           "text": "Katzen krümmen ihre Zungen nach oben, wenn sie Wasser trinken.",
-          "link": "https://www.nationalgeographic.com/animals/article/cats-drinking-water"
+          "link": "https://www.science.org/doi/10.1126/science.1195421"
         }
       }
     },
@@ -22,15 +22,15 @@
       "translations": {
         "tr": {
           "text": "Balinalar uyurken beyinlerinin sadece yarım küresi uyur.",
-          "link": "https://www.smithsonianmag.com/science-nature/how-whales-sleep-180967860/"
+          "link": "https://www.sciencedirect.com/science/article/abs/pii/S0149763408000912"
         },
         "en": {
           "text": "Whales sleep with only half of their brain at a time.",
-          "link": "https://www.smithsonianmag.com/science-nature/how-whales-sleep-180967860/"
+          "link": "https://www.sciencedirect.com/science/article/abs/pii/S0149763408000912"
         },
         "de": {
           "text": "Wale schlafen jeweils nur mit einer Gehirnhälfte.",
-          "link": "https://www.smithsonianmag.com/science-nature/how-whales-sleep-180967860/"
+          "link": "https://www.sciencedirect.com/science/article/abs/pii/S0149763408000912"
         }
       }
     },
@@ -39,11 +39,11 @@
       "translations": {
         "tr": {
           "text": "Dünyadaki flamingolar pembe renklerini yedikleri karotenoidler sayesinde alır.",
-          "link": "https://www.britannica.com/animal/flamingo-bird"
+          "link": "https://www.smithsonianmag.com/smithsonian-institution/proud-sea-lion-mom-shows-her-new-pup-adorable-pictures-zoo-180959651/"
         },
         "en": {
           "text": "Flamingos get their pink color from carotenoids in their diet.",
-          "link": "https://www.britannica.com/animal/flamingo-bird"
+          "link": "https://www.smithsonianmag.com/smithsonian-institution/proud-sea-lion-mom-shows-her-new-pup-adorable-pictures-zoo-180959651/"
         },
         "de": {
           "text": "Flamingos erhalten ihre rosa Farbe durch Carotinoide in ihrer Nahrung.",
@@ -56,15 +56,15 @@
       "translations": {
         "tr": {
           "text": "Ay yüzeyinde gün doğumu ve gün batımı yaklaşık 6 gün sürer.",
-          "link": "https://solarsystem.nasa.gov/moons/earths-moon/overview/"
+          "link": "https://science.nasa.gov/moon/facts/"
         },
         "en": {
           "text": "Sunrise and sunset on the Moon each last about six Earth days.",
-          "link": "https://solarsystem.nasa.gov/moons/earths-moon/overview/"
+          "link": "https://science.nasa.gov/moon/facts/"
         },
         "de": {
           "text": "Auf der Mondoberfläche dauern Sonnenauf- und -untergang jeweils etwa sechs Erdtage.",
-          "link": "https://solarsystem.nasa.gov/moons/earths-moon/overview/"
+          "link": "https://science.nasa.gov/moon/facts/"
         }
       }
     }
