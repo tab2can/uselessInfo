@@ -39,11 +39,11 @@
       "translations": {
         "tr": {
           "text": "Dünyadaki flamingolar pembe renklerini yedikleri karotenoidler sayesinde alır.",
-          "link": "https://www.smithsonianmag.com/smithsonian-institution/proud-sea-lion-mom-shows-her-new-pup-adorable-pictures-zoo-180959651/"
+          "link": "https://www.britannica.com/animal/flamingo-bird"
         },
         "en": {
           "text": "Flamingos get their pink color from carotenoids in their diet.",
-          "link": "https://www.smithsonianmag.com/smithsonian-institution/proud-sea-lion-mom-shows-her-new-pup-adorable-pictures-zoo-180959651/"
+          "link": "https://www.britannica.com/animal/flamingo-bird"
         },
         "de": {
           "text": "Flamingos erhalten ihre rosa Farbe durch Carotinoide in ihrer Nahrung.",
@@ -65,6 +65,941 @@
         "de": {
           "text": "Auf der Mondoberfläche dauern Sonnenauf- und -untergang jeweils etwa sechs Erdtage.",
           "link": "https://science.nasa.gov/moon/facts/"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "translations": {
+        "tr": {
+          "text": "Penguenlerin dizleri vardır ama vücutlarının içinde gizlidir.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/j.1469-7580.2012.01497.x"
+        },
+        "en": {
+          "text": "Penguins have knees, but they are hidden inside their bodies.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/j.1469-7580.2012.01497.x"
+        },
+        "de": {
+          "text": "Pinguine haben Knie, aber sie sind in ihrem Körper verborgen.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/j.1469-7580.2012.01497.x"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "translations": {
+        "tr": {
+          "text": "Kuru buz, -78.5 °C’de katı karbondioksittir ve doğrudan gaza dönüşür.",
+          "link": "http://science.howstuffworks.com/innovation/science-questions/question264.htm"
+        },
+        "en": {
+          "text": "Dry ice is solid CO₂ at -78.5 °C and sublimates directly to gas.",
+          "link": "http://science.howstuffworks.com/innovation/science-questions/question264.htm"
+        },
+        "de": {
+          "text": "Trockeneis ist festes CO₂ bei -78,5 °C und sublimiert direkt zu Gas.",
+          "link": "http://science.howstuffworks.com/innovation/science-questions/question264.htm"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "translations": {
+        "tr": {
+          "text": "Çoğu keselide sadece dişilerde kese vardır; bazı erkekler genital koruma için kullanır.",
+          "link": "http://biology.stackexchange.com/questions/8505/do-male-marsupials-have-a-pouch"
+        },
+        "en": {
+          "text": "Most marsupials’ females have pouches; some males use theirs to protect genitalia.",
+          "link": "http://biology.stackexchange.com/questions/8505/do-male-marsupials-have-a-pouch"
+        },
+        "de": {
+          "text": "Bei den meisten Beuteltieren haben Weibchen Beutel; manche Männchen schützen darin ihre Genitalien.",
+          "link": "http://biology.stackexchange.com/questions/8505/do-male-marsupials-have-a-pouch"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "translations": {
+        "tr": {
+          "text": "Beyin günlük 1300 kalorinin yaklaşık %20’sini harcar; düşünme 20–50 kalori ekler.",
+          "link": "http://io9.com/5920970/how-many-calories-does-thinking-burn"
+        },
+        "en": {
+          "text": "The brain uses about 20% of 1300 daily calories; thinking adds only 20–50 more.",
+          "link": "http://io9.com/5920970/how-many-calories-does-thinking-burn"
+        },
+        "de": {
+          "text": "Das Gehirn verbraucht etwa 20 % von 1300 Kalorien; Denken verbrennt nur 20–50 extra.",
+          "link": "http://io9.com/5920970/how-many-calories-does-thinking-burn"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "translations": {
+        "tr": {
+          "text": "“Kalamazoo” yerli kökenlidir; anlamı “yansıyan nehir” ya da “kaynar su” olabilir.",
+          "link": "http://www.kalamazoomi.com/hisf.htm"
+        },
+        "en": {
+          "text": "“Kalamazoo” is Native American; it may mean “reflecting river” or “boiling water.”",
+          "link": "http://www.kalamazoomi.com/hisf.htm"
+        },
+        "de": {
+          "text": "„Kalamazoo“ ist indianischen Ursprungs; es bedeutet wohl „spiegelnder Fluss“ oder „kochendes Wasser“.",
+          "link": "http://www.kalamazoomi.com/hisf.htm"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "translations": {
+        "tr": {
+          "text": "Okyanuslarda 1 milyon bilinen, tahminen 9 milyon keşfedilmemiş tür yaşamaktadır.",
+          "link": "http://school.discoveryeducation.com/schooladventures/planetocean/ocean.html"
+        },
+        "en": {
+          "text": "Over 1 million known, and possibly 9 million undiscovered species live in oceans.",
+          "link": "http://school.discoveryeducation.com/schooladventures/planetocean/ocean.html"
+        },
+        "de": {
+          "text": "Über 1 Million bekannte und etwa 9 Millionen unentdeckte Arten leben in den Ozeanen.",
+          "link": "http://school.discoveryeducation.com/schooladventures/planetocean/ocean.html"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "translations": {
+        "tr": {
+          "text": "Bugün yalnızca ornitorenk ve ekidne yumurtlayan memelilerdir; eskiden Avustralya’da yaygındılar.",
+          "link": "http://www.scientificamerican.com/article/extreme-monotremes/"
+        },
+        "en": {
+          "text": "Only the platypus and echidna lay eggs today; they once dominated Australia.",
+          "link": "http://www.scientificamerican.com/article/extreme-monotremes/"
+        },
+        "de": {
+          "text": "Nur Schnabeltier und Ameisenigel legen heute Eier; einst beherrschten sie Australien.",
+          "link": "http://www.scientificamerican.com/article/extreme-monotremes/"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "translations": {
+        "tr": {
+          "text": "IFFHS’ye göre Pelé, 541 lig golüyle en başarılı golcüdür; toplamda 1281 gol attı.",
+          "link": "http://en.wikipedia.org/wiki/Pel%C3%A9"
+        },
+        "en": {
+          "text": "According to IFFHS, Pelé scored 541 league goals and 1281 total, a world record.",
+          "link": "http://en.wikipedia.org/wiki/Pel%C3%A9"
+        },
+        "de": {
+          "text": "Laut IFFHS erzielte Pelé 541 Ligatore und insgesamt 1281 – ein Weltrekord.",
+          "link": "http://en.wikipedia.org/wiki/Pel%C3%A9"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "translations": {
+        "tr": {
+          "text": "13 Nisan 1965’te The Beatles iki Grammy kazandı: En İyi Yeni Sanatçı ve Vokal Grup.",
+          "link": "http://www.grammy.com/news/the-beatles-50-milestones-in-50-years"
+        },
+        "en": {
+          "text": "On April 13, 1965, The Beatles won two GRAMMYs: Best New Artist and Vocal Group.",
+          "link": "http://www.grammy.com/news/the-beatles-50-milestones-in-50-years"
+        },
+        "de": {
+          "text": "Am 13. April 1965 gewannen The Beatles zwei GRAMMYs: Bester Newcomer und Vokalgruppe.",
+          "link": "http://www.grammy.com/news/the-beatles-50-milestones-in-50-years"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "translations": {
+        "tr": {
+          "text": "115 kediden %90’ı düşmeden sağ kaldı; 32 kat düşen bile hafif yaralandı.",
+          "link": "http://animals.howstuffworks.com/pets/domestic-cat-info5.htm"
+        },
+        "en": {
+          "text": "Of 115 cats, 90% survived falls; even one from 32 stories was only lightly hurt.",
+          "link": "http://animals.howstuffworks.com/pets/domestic-cat-info5.htm"
+        },
+        "de": {
+          "text": "Von 115 Katzen überlebten 90 %; eine fiel 32 Stockwerke tief und war nur leicht verletzt.",
+          "link": "http://animals.howstuffworks.com/pets/domestic-cat-info5.htm"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "translations": {
+        "tr": {
+          "text": "Amelia Earhart, Atlantik’i tek başına uçan ilk kadındı.",
+          "link": "http://www.bbc.co.uk/history/0/22561595"
+        },
+        "en": {
+          "text": "Amelia Earhart was the first woman to fly solo across the Atlantic.",
+          "link": "http://www.bbc.co.uk/history/0/22561595"
+        },
+        "de": {
+          "text": "Amelia Earhart war die erste Frau, die allein über den Atlantik flog.",
+          "link": "http://www.bbc.co.uk/history/0/22561595"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "translations": {
+        "tr": {
+          "text": "Arizona “Bakır Eyaleti”, Arkansas ise doğal güzellikleriyle “Doğal Eyalet” olarak bilinir.",
+          "link": "http://www.50states.com/bio/nickname1.htm"
+        },
+        "en": {
+          "text": "Arizona is the “Copper State”; Arkansas, famed for nature, is “The Natural State.”",
+          "link": "http://www.50states.com/bio/nickname1.htm"
+        },
+        "de": {
+          "text": "Arizona heißt „Copper State“, Arkansas wegen seiner Natur „The Natural State“.",
+          "link": "http://www.50states.com/bio/nickname1.htm"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "translations": {
+        "tr": {
+          "text": "“Tomboy” önce yaramaz erkek, sonra cesur veya erkeksi kadın anlamında kullanılmaya başlandı.",
+          "link": "http://www.grammarphobia.com/blog/2010/05/who-is-the-tom-in-tomboy.html"
+        },
+        "en": {
+          "text": "“Tomboy” first meant a wild boy, later a bold or boyish woman, per the OED.",
+          "link": "http://www.grammarphobia.com/blog/2010/05/who-is-the-tom-in-tomboy.html"
+        },
+        "de": {
+          "text": "„Tomboy“ bedeutete zuerst wilden Jungen, später mutige oder jungenhafte Frau laut OED.",
+          "link": "http://www.grammarphobia.com/blog/2010/05/who-is-the-tom-in-tomboy.html"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "translations": {
+        "tr": {
+          "text": "Napolyon’un 1815 Waterloo yenilgisiyle savaşlar bitti; Paris Antlaşması Kasım’da resmen sonlandırdı.",
+          "link": "http://en.wikipedia.org/wiki/Napoleonic_Wars"
+        },
+        "en": {
+          "text": "After Napoleon’s 1815 Waterloo defeat, wars ended officially with the Paris Treaty in November.",
+          "link": "http://en.wikipedia.org/wiki/Napoleonic_Wars"
+        },
+        "de": {
+          "text": "Nach Napoleons Niederlage bei Waterloo 1815 endeten die Kriege offiziell mit dem Pariser Vertrag.",
+          "link": "http://en.wikipedia.org/wiki/Napoleonic_Wars"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "translations": {
+        "tr": {
+          "text": "“Tarantula bacağı” olarak bilinen Opiliones türleri zehirli değildir; bu yaygın bir mittir.",
+          "link": "http://m.livescience.com/33625-daddy-longlegs-spiders-poisonous.html"
+        },
+        "en": {
+          "text": "Daddy longlegs (Opiliones) aren’t venomous; the idea they are is a common myth.",
+          "link": "http://m.livescience.com/33625-daddy-longlegs-spiders-poisonous.html"
+        },
+        "de": {
+          "text": "Weberknechte (Opiliones) sind nicht giftig; die Annahme darüber ist ein verbreiteter Mythos.",
+          "link": "http://m.livescience.com/33625-daddy-longlegs-spiders-poisonous.html"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "translations": {
+        "tr": {
+          "text": "Teksas’taki tek doğal göl, kütük tıkanmasıyla oluşan Caddo Gölü’dür.",
+          "link": "http://waterschool.brazos.org/post/man-made.aspx"
+        },
+        "en": {
+          "text": "Texas has only one natural lake—Caddo Lake—formed by a historic log jam.",
+          "link": "http://waterschool.brazos.org/post/man-made.aspx"
+        },
+        "de": {
+          "text": "Texas hat nur einen natürlichen See – den durch Baumstämme entstandenen Caddo Lake.",
+          "link": "http://waterschool.brazos.org/post/man-made.aspx"
+        }
+      }
+    },
+    {
+      "id": 21,
+      "translations": {
+        "tr": {
+          "text": "“Taser”, “Thomas A. Swift’s Electric Rifle” ifadesinin kısaltmasıdır; A harfi sonradan eklendi.",
+          "link": "http://blog.dictionary.com/taser/"
+        },
+        "en": {
+          "text": "“Taser” stands for “Thomas A. Swift’s Electric Rifle”; the “A” was later added.",
+          "link": "http://blog.dictionary.com/taser/"
+        },
+        "de": {
+          "text": "„Taser“ steht für „Thomas A. Swift’s Electric Rifle“; das „A“ wurde später hinzugefügt.",
+          "link": "http://blog.dictionary.com/taser/"
+        }
+      }
+    },
+    {
+      "id": 22,
+      "translations": {
+        "tr": {
+          "text": "Meksika’dan ayrılan Teksas, 1836–1845 arasında “Teksas Cumhuriyeti” adlı bağımsız bir ülkeydi.",
+          "link": "http://www.history.com/news/9-things-you-may-not-know-about-texas"
+        },
+        "en": {
+          "text": "After independence from Mexico, Texas was the Republic of Texas from 1836 to 1845",
+          "link": "http://www.history.com/news/9-things-you-may-not-know-about-texas"
+        },
+        "de": {
+          "text": "Nach der Unabhängigkeit von Mexiko war Texas 1836–1845 die Republik Texas.",
+          "link": "http://www.history.com/news/9-things-you-may-not-know-about-texas"
+        }
+      }
+    },
+    {
+      "id": 23,
+      "translations": {
+        "tr": {
+          "text": "Zencefil mide bulantısına iyi gelir; çay, kurabiye veya şeker şeklinde alınabilir.",
+          "link": "http://health.howstuffworks.com/wellness/natural-medicine/home-remedies/home-remedies-for-nausea2.htm"
+        },
+        "en": {
+          "text": "Ginger relieves nausea effectively; drink it as tea or eat it as snacks.",
+          "link": "http://health.howstuffworks.com/wellness/natural-medicine/home-remedies/home-remedies-for-nausea2.htm"
+        },
+        "de": {
+          "text": "Ingwer lindert Übelkeit wirksam; als Tee oder in Snacks eingenommen hilft er.",
+          "link": "http://health.howstuffworks.com/wellness/natural-medicine/home-remedies/home-remedies-for-nausea2.htm"
+        }
+      }
+    },
+    {
+      "id": 24,
+      "translations": {
+        "tr": {
+          "text": "Volkan, yerkabuğunun altındaki magmanın yüzeye çıktığı dağ biçimli bir yapıdır.",
+          "link": "http://www.primaryhomeworkhelp.co.uk/mountains/volcanoes.htm"
+        },
+        "en": {
+          "text": "A volcano is a mountain where magma and gases erupt through Earth’s surface.",
+          "link": "http://www.primaryhomeworkhelp.co.uk/mountains/volcanoes.htm"
+        },
+        "de": {
+          "text": "Ein Vulkan ist ein Berg, aus dem Magma und Gase an die Erdoberfläche treten.",
+          "link": "http://www.primaryhomeworkhelp.co.uk/mountains/volcanoes.htm"
+        }
+      }
+    },
+    {
+      "id": 25,
+      "translations": {
+        "tr": {
+          "text": "Abu, Aladdin’in hırsız maymun dostudur; sesi Frank Welker’a aittir.",
+          "link": "http://en.wikipedia.org/wiki/List_of_Disney%27s_Aladdin_characters"
+        },
+        "en": {
+          "text": "Abu is Aladdin’s kleptomaniac monkey friend, voiced by Frank Welker.",
+          "link": "http://en.wikipedia.org/wiki/List_of_Disney%27s_Aladdin_characters"
+        },
+        "de": {
+          "text": "Abu ist Aladdins kleptomaner Affenfreund, gesprochen von Frank Welker.",
+          "link": "http://en.wikipedia.org/wiki/List_of_Disney%27s_Aladdin_characters"
+        }
+      }
+    },
+    {
+      "id": 26,
+      "translations": {
+        "tr": {
+          "text": "",
+          "link": "http://en.wikipedia.org/wiki/The_Starry_Night"
+        },
+        "en": {
+          "text": "",
+          "link": "http://en.wikipedia.org/wiki/The_Starry_Night"
+        },
+        "de": {
+          "text": "",
+          "link": "http://en.wikipedia.org/wiki/The_Starry_Night"
+        }
+      }
+    },
+    {
+      "id": 27,
+      "translations": {
+        "tr": {
+          "text": "Hem ışık hem de ses dalga şeklinde yayılır, ancak ışık çok daha hızlıdır. Işık, bir ortama ihtiyaç duymadan, yani uzay boşluğunda bile ilerleyebilen elektromanyetik dalgalardan oluşur.",
+          "link": "http://www.pa.msu.edu/sciencet/ask_st/072893.html"
+        },
+        "en": {
+          "text": "Light and sound are both waves, but light is far faster and can travel through a vacuum because it’s electromagnetic.",
+          "link": "http://www.pa.msu.edu/sciencet/ask_st/072893.html"
+        },
+        "de": {
+          "text": "Sowohl Licht als auch Schall sind Wellen, aber Licht ist viel schneller und kann sich im Vakuum ausbreiten, da es elektromagnetisch ist.",
+          "link": "http://www.pa.msu.edu/sciencet/ask_st/072893.html"
+        }
+      }
+    },
+    {
+      "id": 28,
+      "translations": {
+        "tr": {
+          "text": "Michael Buckley’nin haritası, Tibet Platosu ve çevresindeki bölgeleri açıkça gösteriyor.",
+          "link": "http://www.yowangdu.com/tibet-travel/where-is-tibet.html"
+        },
+        "en": {
+          "text": "Michael Buckley’s map clearly shows the Tibetan Plateau and nearby regions.",
+          "link": "http://www.yowangdu.com/tibet-travel/where-is-tibet.html"
+        },
+        "de": {
+          "text": "Michael Buckleys Karte zeigt deutlich das tibetische Plateau und seine Umgebung.",
+          "link": "http://www.yowangdu.com/tibet-travel/where-is-tibet.html"
+        }
+      }
+    },
+    {
+      "id": 29,
+      "translations": {
+        "tr": {
+          "text": "Ters gökkuşağı, güneş ışığının buz kristallerinden geçmesiyle oluşur, yağmurla ilgisi yoktur.",
+          "link": "http://www.weatherwizkids.com/weather-optical-illusions.htm"
+        },
+        "en": {
+          "text": "An upside-down rainbow forms when sunlight passes through ice crystals, not rain.",
+          "link": "http://www.weatherwizkids.com/weather-optical-illusions.htm"
+        },
+        "de": {
+          "text": "Ein umgekehrter Regenbogen entsteht, wenn Sonnenlicht durch Eiskristalle scheint, nicht durch Regen.",
+          "link": "http://www.weatherwizkids.com/weather-optical-illusions.htm"
+        }
+      }
+    },
+    {
+      "id": 30,
+      "translations": {
+        "tr": {
+          "text": "Ayılar kışın uyuya kalır ama gerçek anlamda kış uykusuna yatmazlar, bu duruma torpor denir.",
+          "link": "http://www.bigcat.org/news/the-truth-about-bears-and-hibernation"
+        },
+        "en": {
+          "text": "Bears sleep deeply in winter but don’t truly hibernate; this state is called torpor.",
+          "link": "http://www.bigcat.org/news/the-truth-about-bears-and-hibernation"
+        },
+        "de": {
+          "text": "Bären schlafen im Winter tief, aber sie halten keinen echten Winterschlaf; das heißt Torpor.",
+          "link": "http://www.bigcat.org/news/the-truth-about-bears-and-hibernation"
+        }
+      }
+    },
+    {
+      "id": 31,
+      "translations": {
+        "tr": {
+          "text": "Churchill, 1946’da “Demir Perde” terimini Sovyet etkisindeki Avrupa için kullandı.",
+          "link": "http://en.wikipedia.org/wiki/Iron_Curtain"
+        },
+        "en": {
+          "text": "Churchill used the term “Iron Curtain” in 1946 for Soviet-controlled Eastern Europe.",
+          "link": "http://en.wikipedia.org/wiki/Iron_Curtain"
+        },
+        "de": {
+          "text": "Churchill verwendete 1946 den Begriff „Eiserner Vorhang“ für das sowjetisch kontrollierte Osteuropa.",
+          "link": "http://en.wikipedia.org/wiki/Iron_Curtain"
+        }
+      }
+    },
+    {
+      "id": 32,
+      "translations": {
+        "tr": {
+          "text": "Uzunbacakların dünyanın en zehirli örümcekleri olduğu efsanesi yanlıştır.",
+          "link": "http://m.livescience.com/33625-daddy-longlegs-spiders-poisonous.html"
+        },
+        "en": {
+          "text": "The myth that daddy longlegs are the most venomous spiders is false.",
+          "link": "http://m.livescience.com/33625-daddy-longlegs-spiders-poisonous.html"
+        },
+        "de": {
+          "text": "Der Mythos, dass Weberknechte die giftigsten Spinnen sind, ist falsch.",
+          "link": "http://m.livescience.com/33625-daddy-longlegs-spiders-poisonous.html"
+        }
+      }
+    },
+    {
+      "id": 33,
+      "translations": {
+        "tr": {
+          "text": "Dünya ekvatorunda saatte yaklaşık 1000 mil hızla döner.",
+          "link": "http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/970401c.html"
+        },
+        "en": {
+          "text": "The Earth spins at about 1000 miles per hour at the equator.",
+          "link": "http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/970401c.html"
+        },
+        "de": {
+          "text": "Die Erde dreht sich am Äquator mit etwa 1000 Meilen pro Stunde.",
+          "link": "http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/970401c.html"
+        }
+      }
+    },
+    {
+      "id": 34,
+      "translations": {
+        "tr": {
+          "text": "Gine tavuğu aslında Afrika kökenlidir, ancak Osmanlı üzerinden Avrupa’ya gelince “hindi” olarak adlandırılmıştır.",
+          "link": "http://blog.dictionary.com/turkey/"
+        },
+        "en": {
+          "text": "The guinea fowl, native to Africa, was brought to Europe via the Ottoman Empire and mistaken for a turkey.",
+          "link": "http://blog.dictionary.com/turkey/"
+        },
+        "de": {
+          "text": "Das Perlhuhn stammt aus Afrika, wurde über das Osmanische Reich nach Europa gebracht und fälschlicherweise „Truthahn“ genannt.",
+          "link": "http://blog.dictionary.com/turkey/"
+        }
+      }
+    },
+    {
+      "id": 35,
+      "translations": {
+        "tr": {
+          "text": "Thomas McKean (1734-1817), Bağımsızlık Bildirgesi’ni imzalayan son Kongre üyesiydi.",
+          "link": "http://www.constitutionfacts.com/us-declaration-of-independence/about-the-signers/"
+        },
+        "en": {
+          "text": "Thomas McKean (1734-1817) was the last signer of the Declaration of Independence.",
+          "link": "http://www.constitutionfacts.com/us-declaration-of-independence/about-the-signers/"
+        },
+        "de": {
+          "text": "Thomas McKean (1734–1817) war der letzte Unterzeichner der Unabhängigkeitserklärung.",
+          "link": "http://www.constitutionfacts.com/us-declaration-of-independence/about-the-signers/"
+        }
+      }
+    },
+    {
+      "id": 36,
+      "translations": {
+        "tr": {
+          "text": "1519–1522 Magellan-Elcano seferi, dünyayı dolaşan ilk küresel keşifti.",
+          "link": "http://en.wikipedia.org/wiki/Circumnavigation"
+        },
+        "en": {
+          "text": "The 1519–1522 Magellan-Elcano expedition was the first circumnavigation of the globe",
+          "link": "http://en.wikipedia.org/wiki/Circumnavigation"
+        },
+        "de": {
+          "text": "Die Magellan-Elcano-Expedition 1519–1522 war die erste Weltumsegelung.",
+          "link": "http://en.wikipedia.org/wiki/Circumnavigation"
+        }
+      }
+    },
+    {
+      "id": 37,
+      "translations": {
+        "tr": {
+          "text": "Salyangozlar ve sümüklü böcekler sümük salgılayarak yavaşça hareket eder, başlarında ağız ve dokunaçlar bulunur.",
+          "link": "http://hypertextbook.com/facts/AngieYee.shtml"
+        },
+        "en": {
+          "text": "Snails and slugs secrete slime to move slowly; their heads have a mouth and tentacles.",
+          "link": "http://hypertextbook.com/facts/AngieYee.shtml"
+        },
+        "de": {
+          "text": "Schnecken und Nacktschnecken bewegen sich langsam mit Schleim; Kopf mit Mund und Tentakeln.",
+          "link": "http://hypertextbook.com/facts/AngieYee.shtml"
+        }
+      }
+    },
+    {
+      "id": 38,
+      "translations": {
+        "tr": {
+          "text": "Beş İyi İmparator, ardışık olarak Roma’da barış ve refah dönemi yönettiler; sonuncusu Marcus Aurelius’tur.",
+          "link": "http://www.ushistory.org/civ/6c.asp"
+        },
+        "en": {
+          "text": "The Five Good Emperors ruled Rome peacefully in succession; the last was Marcus Aurelius.",
+          "link": "http://www.ushistory.org/civ/6c.asp"
+        },
+        "de": {
+          "text": "Die Fünf Guten Kaiser herrschten friedlich über Rom; der letzte war Marcus Aurelius.",
+          "link": "http://www.ushistory.org/civ/6c.asp"
+        }
+      }
+    },
+    {
+      "id": 39,
+      "translations": {
+        "tr": {
+          "text": "Güneş, G-tipi ana kol yıldızıdır; aslında beyazdır ama Dünya’dan sarı görünür.",
+          "link": "http://www.space.com/17001-how-big-is-the-sun-size-of-the-sun.html"
+        },
+        "en": {
+          "text": "The Sun is a G-type main-sequence star, actually white, appearing yellow from Earth.",
+          "link": "http://www.space.com/17001-how-big-is-the-sun-size-of-the-sun.html"
+        },
+        "de": {
+          "text": "Die Sonne ist ein G-Typ Hauptreihenstern, eigentlich weiß, von der Erde gelblich.",
+          "link": "http://www.space.com/17001-how-big-is-the-sun-size-of-the-sun.html"
+        }
+      }
+    },
+    {
+      "id": 40,
+      "translations": {
+        "tr": {
+          "text": "Boğaların boynuzu olup olmaması ırka bağlıdır; dişilerde de boynuz olabilir.",
+          "link": "http://en.m.wikipedia.org/wiki/Bull"
+        },
+        "en": {
+          "text": "Whether cattle have horns depends on breed; cows can have them too.",
+          "link": "http://en.m.wikipedia.org/wiki/Bull"
+        },
+        "de": {
+          "text": "Ob Rinder Hörner haben, hängt von der Rasse ab; Kühe können auch Hörner haben.",
+          "link": "http://en.m.wikipedia.org/wiki/Bull"
+        }
+      }
+    },
+    {
+      "id": 41,
+      "translations": {
+        "tr": {
+          "text": "“Signs”, Kanadalı Five Man Electrical Band’in 1970’teki ikinci albümünden bir şarkıdır.",
+          "link": "http://en.m.wikipedia.org/wiki/Signs_(Five_Man_Electrical_Band_song)"
+        },
+        "en": {
+          "text": "“Signs” is a 1970 song by Canadian band Five Man Electrical Band from their second album.",
+          "link": "http://en.m.wikipedia.org/wiki/Signs_(Five_Man_Electrical_Band_song)"
+        },
+        "de": {
+          "text": "„Signs“ ist ein Lied der kanadischen Band Five Man Electrical Band von ihrem zweiten Album 1970.",
+          "link": "http://en.m.wikipedia.org/wiki/Signs_(Five_Man_Electrical_Band_song)"
+        }
+      }
+    },
+    {
+      "id": 42,
+      "translations": {
+        "tr": {
+          "text": "“Roshambo”, taş-kağıt-makas oyunu için söylenen hecelerdir; Rochambeau ile bağlantısı halk etimolojisidir.",
+          "link": "http://en.m.wiktionary.org/wiki/roshambo"
+        },
+        "en": {
+          "text": "“Roshambo” are syllables in rock-paper-scissors; the Rochambeau link is folk etymology.",
+          "link": "http://en.m.wiktionary.org/wiki/roshambo"
+        },
+        "de": {
+          "text": "„Roshambo“ sind Silben beim Schere-Stein-Papier-Spiel; Verbindung zu Rochambeau ist Volksherkunft.",
+          "link": "http://en.m.wiktionary.org/wiki/roshambo"
+        }
+      }
+    },
+    {
+      "id": 43,
+      "translations": {
+        "tr": {
+          "text": "Nil, suları 11 ülke tarafından paylaşıldığı için uluslararası bir nehir olarak kabul edilir.",
+          "link": "http://en.m.wikipedia.org/wiki/Nile"
+        },
+        "en": {
+          "text": "The Nile is international, with water shared by eleven countries including Egypt and Sudan.",
+          "link": "http://en.m.wikipedia.org/wiki/Nile"
+        },
+        "de": {
+          "text": "Der Nil ist international, sein Wasser wird von elf Ländern geteilt, darunter Ägypten und Sudan.",
+          "link": "http://en.m.wikipedia.org/wiki/Nile"
+        }
+      }
+    },
+    {
+      "id": 44,
+      "translations": {
+        "tr": {
+          "text": "Fenway Park, 20 Nisan 1912’de açıldı; 2003’te Green Monster üzerine koltuklar eklendi.",
+          "link": "http://nesn.com/2011/08/fenway-park-adds-green-monster-seats-red-sox-revamped-offense-leads-boston-to-alcs-in-2003/"
+        },
+        "en": {
+          "text": "Fenway Park opened April 20, 1912; in 2003, seats were added atop the Green Monster.",
+          "link": "http://nesn.com/2011/08/fenway-park-adds-green-monster-seats-red-sox-revamped-offense-leads-boston-to-alcs-in-2003/"
+        },
+        "de": {
+          "text": "Fenway Park wurde am 20. April 1912 eröffnet; 2003 wurden Sitze auf dem Green Monster hinzugefügt.",
+          "link": "http://nesn.com/2011/08/fenway-park-adds-green-monster-seats-red-sox-revamped-offense-leads-boston-to-alcs-in-2003/"
+        }
+      }
+    },
+    {
+      "id": 45,
+      "translations": {
+        "tr": {
+          "text": "Minnesota Vikings ve Buffalo Bills dört Super Bowl’a çıktı ama şampiyon olamadı; Browns, Lions, Texans ve Jaguars hiç katılmadı.",
+          "link": "http://www.bigcatcountry.com/2014/2/4/5378144/nfl-teams-that-have-never-won-the-super-bowl-jaguars-among-13"
+        },
+        "en": {
+          "text": "The Vikings and Bills reached four Super Bowls without winning; Browns, Lions, Texans, Jaguars never appeared.",
+          "link": "http://www.bigcatcountry.com/2014/2/4/5378144/nfl-teams-that-have-never-won-the-super-bowl-jaguars-among-13"
+        },
+        "de": {
+          "text": "Vikings und Bills waren viermal im Super Bowl ohne Sieg; Browns, Lions, Texans, Jaguars nie.",
+          "link": "http://www.bigcatcountry.com/2014/2/4/5378144/nfl-teams-that-have-never-won-the-super-bowl-jaguars-among-13"
+        }
+      }
+    },
+    {
+      "id": 46,
+      "translations": {
+        "tr": {
+          "text": "İsrail kuskusunu makarna gibi haşlayın: 1 su bardağı kuskusu 8 dakika tuzlu suda pişirin.",
+          "link": "http://www.tablespoon.com/posts/how-to-cook-couscous/83c497ae-36f3-4681-8a90-6501e0a7feb2"
+        },
+        "en": {
+          "text": "Cook Israeli couscous like pasta: boil 1 cup in salted water for 8 minutes.",
+          "link": "http://www.tablespoon.com/posts/how-to-cook-couscous/83c497ae-36f3-4681-8a90-6501e0a7feb2"
+        },
+        "de": {
+          "text": "Israelischer Couscous wie Pasta kochen: 1 Tasse in Salzwasser 8 Minuten kochen.",
+          "link": "http://www.tablespoon.com/posts/how-to-cook-couscous/83c497ae-36f3-4681-8a90-6501e0a7feb2"
+        }
+      }
+    },
+    {
+      "id": 47,
+      "translations": {
+        "tr": {
+          "text": "Akciğerler havadan oksijen alır, karbondioksiti verir; solungaçlar sudan oksijen alır ve karbondioksiti bırakır.",
+          "link": "http://www.highlightskids.com/science-questions/how-do-fishs-gills-work"
+        },
+        "en": {
+          "text": "Lungs absorb oxygen from air and release CO₂; gills extract oxygen from water and expel CO₂.",
+          "link": "http://www.highlightskids.com/science-questions/how-do-fishs-gills-work"
+        },
+        "de": {
+          "text": "Lungen nehmen Sauerstoff aus der Luft auf und geben CO₂ ab; Kiemen entziehen Sauerstoff aus Wasser.",
+          "link": "http://www.highlightskids.com/science-questions/how-do-fishs-gills-work"
+        }
+      }
+    },
+    {
+      "id": 48,
+      "translations": {
+        "tr": {
+          "text": "Thomas Nast, Demokratları eşek, Cumhuriyetçileri fil sembolü ile temsil etti; 1874’te eşekli karikatür çizdi.",
+          "link": "http://www.factmonster.com/ipka/A0881985.html"
+        },
+        "en": {
+          "text": "Thomas Nast popularized the Democratic donkey and Republican elephant; in 1874 he drew a donkey in a lion’s skin.",
+          "link": "http://www.factmonster.com/ipka/A0881985.html"
+        },
+        "de": {
+          "text": "Thomas Nast machte den demokratischen Esel und den republikanischen Elefanten bekannt; 1874 zeichnete er einen Esel im Löwenfell.",
+          "link": "http://www.factmonster.com/ipka/A0881985.html"
+        }
+      }
+    },
+    {
+      "id": 49,
+      "translations": {
+        "tr": {
+          "text": "Satürn’ün 3 ana ve 5 toz halkası vardır; Janus, Methone, Anthe, Pallene ve Roche halkaları da mevcuttur.",
+          "link": "http://www.universetoday.com/38097/how-many-rings-does-saturn-have/"
+        },
+        "en": {
+          "text": "Saturn has 3 main and 5 dusty rings, plus Janus, Methone, Anthe, Pallene, and Roche rings.",
+          "link": "http://www.universetoday.com/38097/how-many-rings-does-saturn-have/"
+        },
+        "de": {
+          "text": "Saturn hat 3 Haupt- und 5 Staubringe sowie Janus-, Methone-, Anthe-, Pallene- und Roche-Ringe.",
+          "link": "http://www.universetoday.com/38097/how-many-rings-does-saturn-have/"
+        }
+      }
+    },
+    {
+      "id": 50,
+      "translations": {
+        "tr": {
+          "text": "Botanikte meyve, çiçekten gelişen ve tohum içeren bitki bölümüdür; sap, yaprak ve kökler sebzedir.",
+          "link": "http://www.mayoclinic.org/healthy-living/nutrition-and-healthy-eating/expert-blog/fruit-vegetable-difference/bgp-20056141"
+        },
+        "en": {
+          "text": "Botanically, a fruit develops from a flower and contains seeds; stems, leaves, roots are vegetables.",
+          "link": "http://www.mayoclinic.org/healthy-living/nutrition-and-healthy-eating/expert-blog/fruit-vegetable-difference/bgp-20056141"
+        },
+        "de": {
+          "text": "Botanisch entwickelt sich die Frucht aus einer Blüte und enthält Samen; Stängel, Blätter, Wurzeln sind Gemüse.",
+          "link": "http://www.mayoclinic.org/healthy-living/nutrition-and-healthy-eating/expert-blog/fruit-vegetable-difference/bgp-20056141"
+        }
+      }
+    },
+    {
+      "id": 51,
+      "translations": {
+        "tr": {
+          "text": "Kar yengeci (Chionoecetes opilio), 200 m’den sığ sularda Bering, Çukçi ve Batı Atlantik’te yaşar.",
+          "link": "http://www.afsc.noaa.gov/Education/oceanlife/crabs/snow_crab.htm"
+        },
+        "en": {
+          "text": "Snow crabs (Chionoecetes opilio) live in shallow waters under 200 m in the Bering, Chukchi, and western Atlantic.",
+          "link": "http://www.afsc.noaa.gov/Education/oceanlife/crabs/snow_crab.htm"
+        },
+        "de": {
+          "text": "Schneekrabben (Chionoecetes opilio) leben in flachen Gewässern unter 200 m im Bering-, Tschuktschensee und westlichen Atlantik.",
+          "link": "http://www.afsc.noaa.gov/Education/oceanlife/crabs/snow_crab.htm"
+        }
+      }
+    },
+    {
+      "id": 52,
+      "translations": {
+        "tr": {
+          "text": "Kızıl saçlıların ortalama 90.000 teli vardır; sarışınlar 150.000 ile en çok saça sahiptir.",
+          "link": "http://m.schwarzkopf.com/sk/en/home/hair_repair/tips_and_tricks/hair_science/amazing_titbits_on_hair.mobile.html"
+        },
+        "en": {
+          "text": "Redheads average 90,000 hairs; blondes have the most, around 150,000 on their head.",
+          "link": "http://m.schwarzkopf.com/sk/en/home/hair_repair/tips_and_tricks/hair_science/amazing_titbits_on_hair.mobile.html"
+        },
+        "de": {
+          "text": "Rothaarige haben durchschnittlich 90.000 Haare; Blondinen etwa 150.000 und damit am meisten.",
+          "link": "http://m.schwarzkopf.com/sk/en/home/hair_repair/tips_and_tricks/hair_science/amazing_titbits_on_hair.mobile.html"
+        }
+      }
+    },
+    {
+      "id": 53,
+      "translations": {
+        "tr": {
+          "text": "1953’te FCC, NTSC renk sistemi kabul etti; ilk renk televizyonlar 1954’te 15 inç ekranla satıldı.",
+          "link": "http://www.earlytelevision.org/color.html"
+        },
+        "en": {
+          "text": "In 1953, the FCC adopted the NTSC system; first color TVs with 15-inch screens sold in 1954.",
+          "link": "http://www.earlytelevision.org/color.html"
+        },
+        "de": {
+          "text": "1953 übernahm die FCC das NTSC-System; erste Farbfernseher mit 15-Zoll-Bildschirm 1954 verkauft.",
+          "link": "http://www.earlytelevision.org/color.html"
+        }
+      }
+    },
+    {
+      "id": 54,
+      "translations": {
+        "tr": {
+          "text": "Her manyetik kutup etrafında auroraların oluştuğu oval halkalar vardır: kuzeyde aurora borealis, güneyde aurora australis.",
+          "link": "http://www.exploratorium.edu/learning_studio/auroras/seethem.html"
+        },
+        "en": {
+          "text": "Oval rings of auroras form around each magnetic pole: aurora borealis in the north, aurora australis in the south.",
+          "link": "http://www.exploratorium.edu/learning_studio/auroras/seethem.html"
+        },
+        "de": {
+          "text": "Um jeden magnetischen Pol entstehen ovale Auroraringe: Nordpol Aurora Borealis, Südpol Aurora Australis.",
+          "link": "http://www.exploratorium.edu/learning_studio/auroras/seethem.html"
+        }
+      }
+    },
+    {
+      "id": 55,
+      "translations": {
+        "tr": {
+          "text": "Yunusların dokunma duyusu gelişmiştir; ancak koku alma yetenekleri yoktur.",
+          "link": "http://en.m.wikipedia.org/wiki/Dolphin"
+        },
+        "en": {
+          "text": "Dolphins have a keen sense of touch but lack a sense of smell.",
+          "link": "http://en.m.wikipedia.org/wiki/Dolphin"
+        },
+        "de": {
+          "text": "Delfine haben einen ausgeprägten Tastsinn, aber keinen Geruchssinn.",
+          "link": "http://en.m.wikipedia.org/wiki/Dolphin"
+        }
+      }
+    },
+    {
+      "id": 56,
+      "translations": {
+        "tr": {
+          "text": "“Fake Shemp”, bir oyuncunun yerine görünmesi için kullanılan, makyaj veya sınırlı çekimlerle gizlenen kişidir.",
+          "link": "http://en.m.wikipedia.org/wiki/Fake_Shemp"
+        },
+        "en": {
+          "text": "A “Fake Shemp” is a stand-in disguised to replace another actor in a film.",
+          "link": "http://en.m.wikipedia.org/wiki/Fake_Shemp"
+        },
+        "de": {
+          "text": "Ein „Fake Shemp“ ist eine verdeckte Vertretung eines Schauspielers im Film.",
+          "link": "http://en.m.wikipedia.org/wiki/Fake_Shemp"
+        }
+      }
+    },
+    {
+      "id": 57,
+      "translations": {
+        "tr": {
+          "text": "Bukalemun renk değiştirirken genellikle ruh halini gösterir; başka hayvanlar kamuflajda daha ustadır.",
+          "link": "http://m.mentalfloss.com/article.php?id=51225"
+        },
+        "en": {
+          "text": "Chameleons often change color to show mood, though other animals are better at camouflage.",
+          "link": "http://m.mentalfloss.com/article.php?id=51225"
+        },
+        "de": {
+          "text": "Chamäleons ändern oft die Farbe zur Stimmung, andere Tiere sind jedoch geschickter in Tarnung.",
+          "link": "http://m.mentalfloss.com/article.php?id=51225"
+        }
+      }
+    },
+    {
+      "id": 58,
+      "translations": {
+        "tr": {
+          "text": "Ay tutulması, Dünya’nın gölgesinin Ay’ı kaplamasıyla olur; türleri tam, kısmi ve yarı gölgelidir.",
+          "link": "http://www.space.com/15689-lunar-eclipses.html"
+        },
+        "en": {
+          "text": "A lunar eclipse occurs when Earth’s shadow blocks sunlight; types are total, partial, and penumbral.",
+          "link": "http://www.space.com/15689-lunar-eclipses.html"
+        },
+        "de": {
+          "text": "Eine Mondfinsternis entsteht, wenn der Erdschatten das Sonnenlicht blockiert; Typen: total, partiell, Halbschatten.",
+          "link": "http://www.space.com/15689-lunar-eclipses.html"
+        }
+      }
+    },
+    {
+      "id": 59,
+      "translations": {
+        "tr": {
+          "text": "İskoçya ve İngiltere 1707’de birleşerek Büyük Britanya Krallığı’nı, 1801’de İrlanda da katılarak Birleşik Krallık’ı oluşturdu.",
+          "link": "http://www.woodlands-junior.kent.sch.uk/customs/questions/britain.html"
+        },
+        "en": {
+          "text": "Scotland and England united in 1707 to form Great Britain; Ireland joined in 1801, creating the United Kingdom.",
+          "link": "http://www.woodlands-junior.kent.sch.uk/customs/questions/britain.html"
+        },
+        "de": {
+          "text": "Schottland und England vereinten sich 1707 zu Großbritannien; Irland trat 1801 bei, wodurch das Vereinigte Königreich entstand.",
+          "link": "http://www.woodlands-junior.kent.sch.uk/customs/questions/britain.html"
         }
       }
     }
